@@ -4,7 +4,7 @@ import com.louis.springframework.beans.BeansException;
 import com.louis.springframework.beans.factory.support.DefaultListableBeanFactory;
 
 /**
- * @author : landon
+ *
  * @date : 2021/8/17
  */
 public abstract class AbstractRefreshableApplicationContext extends AbstractApplicationContext {

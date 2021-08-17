@@ -4,7 +4,7 @@ import com.louis.springframework.beans.factory.support.DefaultListableBeanFactor
 import com.louis.springframework.beans.factory.xml.XmlBeanDefinitionReader;
 
 /**
- * @author : landon
+ *
  * @date : 2021/8/17
  */
 public abstract class AbstractXmlApplicationContext extends AbstractRefreshableApplicationContext {

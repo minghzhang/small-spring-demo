@@ -7,7 +7,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 /**
- * @author : landon
+ *
  * @date : 2021/8/16
  */
 public class SimpleInstantiateStrategy implements InstantiationStrategy {

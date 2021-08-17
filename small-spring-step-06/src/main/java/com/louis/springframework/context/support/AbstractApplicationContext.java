@@ -10,7 +10,7 @@ import com.louis.springframework.core.io.DefaultResourceLoader;
 import java.util.Map;
 
 /**
- * @author : landon
+ *
  * @date : 2021/8/17
  */
 public abstract class AbstractApplicationContext extends DefaultResourceLoader implements ConfigurableApplicationContext {

@@ -1,7 +1,7 @@
 package com.louis.springframework.beans;
 
 /**
- * @author : landon
+ *
  * @date : 2021/8/17
  */
 public class PropertyValue {

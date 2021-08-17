@@ -5,7 +5,7 @@ import com.louis.springframework.beans.factory.BeanFactory;
 import com.louis.springframework.beans.factory.config.BeanDefinition;
 
 /**
- * @author : landon
+ *
  * @date : 2021/8/16
  */
 public abstract class AbstractBeanFactory extends DefaultSingletonBeanRegistry implements BeanFactory {
